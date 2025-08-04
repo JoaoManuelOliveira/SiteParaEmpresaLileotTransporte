@@ -35,7 +35,7 @@ O site foi criado com o propósito de:
 
 ## 📂 Como acessar
 
-Você pode visualizar os arquivos do projeto neste repositório.  
+Você pode visualizar o site neste link abaixo:  
 [👉 Visualizar o site](https://lileottransorte.github.io/Lileot)
 
 ---
